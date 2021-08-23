@@ -1,4 +1,4 @@
-package com.jayant;
+package jayant;
 
 public class Main {
 
