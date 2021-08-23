@@ -1,3 +1,5 @@
+package com.jayant;
+
 import java.util.Scanner;
 
 public class Temperature_Conversion {
